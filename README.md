@@ -24,7 +24,7 @@
 ### 菜單更新：修改 Google 試算表即可
 
 為了方便未來學校維護與更新，我當初就設想將菜單資料存在 Google Sheet 裡（ 類似 Google 的線上 Excel ），只要每週末把下一週的菜單更新到試算表就好。
-![image](https://github.com/jschang19/MKSH_lunch_LINEbot/blob/main/image/截圖 2021-03-09 下午7.45.55.png)
+![image](https://github.com/jschang19/MKSH_lunch_LINEbot/blob/main/image/screenshot.jpg)
 
 ## 參考資源 Quote
 
