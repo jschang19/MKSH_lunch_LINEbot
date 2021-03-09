@@ -8,10 +8,10 @@
 */
 
 var CHANNEL_ACCESS_TOKEN = " Put Your Token Here!";    // LINE 的金鑰
-var spreadSheetId = "1DFsuGryanRF4Os5UlfaSAGAkJCmNanb0CX6Mc2quTAs";    // Google Sheet 的ID
+var spreadSheetId = "Google 表單代碼";    // Google Sheet 的ID
 var sheetName = "lunch";    // 工作表名稱
 var searchColumn = 1;    // 搜尋第 x 欄的資料
-var allowUserId = ["Ucf035f28a267b5e22edc042c4d91623c"];  //允許取得資料的使用者ID, 已修改成全面開放 ( turned to allowed. )
+var allowUserId = [""];  //允許取得資料的使用者ID, 已修改成全面開放 ( turned to allowed. )
 var spreadSheet = SpreadsheetApp.openById(spreadSheetId);
 var sheet = spreadSheet.getSheetByName(sheetName);
 var lastRow = sheet.getLastRow();
