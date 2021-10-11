@@ -36,4 +36,4 @@
 2. Sean Chuo ( 2019 ) / 兩小時打造簡單 Line Chatbot — 使用 Google Apps Script & Google Sheet API /
 https://medium.com/技術筆記/兩小時打造簡單-line-chatbot-使用-google-apps-script-google-sheet-api-8fff7372ff3d
 
-特別感謝 Boris 前輩的教學影片，大部分的程式概念是源自他的教學。
+特別感謝 Boris 前輩的教學影片，初版程式的邏輯大部分的程式概念是源自他的教學，新版程式碼是個人重新寫的 code，歡迎參考。
